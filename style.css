@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Sedan+SC&display=swap');
+
+
+
+HEader{
+    background-color: rgb(67, 201, 224);
+    width: 100% ;
+    
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+
+a{
+    text-decoration: none;
+}
+
+header li{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+HEader ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+header ul li{
+    margin: 30px;
+}
+
+nav h1{
+    font-size: 30px;
+    color: rgb(246, 250, 245);
+    
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    font-size: 50px;
+    color: rgb(13, 116, 175);
+
+}
+
+p{
+
+font-size:15px ;
+color: black;
+
+}
+.caja1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
